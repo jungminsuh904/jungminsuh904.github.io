@@ -29,7 +29,7 @@ latest_posts:
   scrollable: true
   limit: 3
 ---
-## About me
+### About me
 
 I am an incoming Ph.D. student in the Department of Electrical and Computer Engineering at [The University of Texas at Austin](https://www.ece.utexas.edu/), where I will be advised by Prof. [Gustavo de Veciana](https://users.ece.utexas.edu/~gustavo/) and affiliated with the [Wireless Networking and Communications Group](https://wncg.org/).
 
@@ -37,14 +37,18 @@ My research interests lie at the intersection of wireless communications, networ
 
 Before joining UT Austin, I received both my B.S. and M.S. degrees in Electrical Engineering from [Korea University](https://www.korea.ac.kr/) in Seoul, South Korea. During my master's studies, I worked on the temporal joint power statistics and outage dynamics of low-Earth-orbit (LEO) satellite communication systems, under the supervision of Prof. [Young-Chai Ko](https://commsys.korea.ac.kr/professor).
 
-## Research Interests
+<div style="margin-top: 2.5rem;"></div>
+
+### Research Interests
 
 - AI-Empowered Radio Access Networks
 - Network Optimization and Control
 - Wireless Networks
 - Statistical Modeling of Networked Systems
 
-## Education
+<div style="margin-top: 2.5rem;"></div>
+
+### Education
 
 **Ph.D. Student in Electrical and Computer Engineering**  
 The University of Texas at Austin, 2026.8–Present  
