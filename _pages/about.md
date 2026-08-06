@@ -9,12 +9,12 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p>The University of Texas at Austin</p>
-    <p>Wireless Networking and Communications Group</p>
-    <p>Austin, TX, USA</p>
+#    <p>The University of Texas at Austin</p>
+#    <p>Wireless Networking and Communications Group</p>
+#    <p>Austin, TX, USA</p>
 
-selected_papers: true
-social: true
+selected_papers: false
+social: false
 
 announcements:
   enabled: false
