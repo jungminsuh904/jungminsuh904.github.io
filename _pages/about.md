@@ -29,6 +29,6 @@ latest_posts:
 
 I am an incoming Ph.D. student in the Department of Electrical and Computer Engineering at [The University of Texas at Austin](https://www.ece.utexas.edu/), where I will be advised by Professor [Gustavo de Veciana](https://users.ece.utexas.edu/~gustavo/) and affiliated with the [Wireless Networking and Communications Group](https://wncg.org/).
 
-My research interests broadly lie at the intersection of wireless networking, network optimization, stochastic systems, and machine learning. I am particularly interested in developing analytical and learning-based methods for resource allocation, performance optimization, and control in wireless and satellite networks.
+My research interests lie at the intersection of wireless communications, network optimization, and statistical modeling, with a particular focus on AI-empowered radio access networks (RANs). My work aims to develop analytical and learning-based methods for resource allocation, performance optimization, and control in wireless networks.
 
-Before joining UT Austin, I received my M.S. degree in Electrical Engineering from Korea University. During my master's studies, I worked on resource allocation and performance optimization for wireless communication systems.
+Before joining UT Austin, I received both my B.S. and M.S. degrees in Electrical Engineering from [Korea University](https://www.korea.ac.kr/) in Seoul, South Korea. During my master's studies, I worked on the temporal joint power statistics and outage dynamics of low-Earth-orbit (LEO) satellite communication systems.
