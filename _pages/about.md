@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title:
 permalink: /
 # subtitle: Incoming Ph.D. Student in Electrical and Computer Engineering at The University of Texas at Austin
 
