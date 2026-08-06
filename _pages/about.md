@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Incoming Ph.D. Student in Electrical and Computer Engineering at The University of Texas at Austin
+# subtitle: Incoming Ph.D. Student in Electrical and Computer Engineering at The University of Texas at Austin
 
 profile:
   align: right
