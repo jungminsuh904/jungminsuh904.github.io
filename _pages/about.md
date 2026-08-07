@@ -30,7 +30,6 @@ latest_posts:
   limit: 3
 ---
 
-
 ### About me
 
 I am an incoming Ph.D. student in the Department of Electrical and Computer Engineering at [The University of Texas at Austin](https://www.ece.utexas.edu/), where I will be advised by Prof. [Gustavo de Veciana](https://users.ece.utexas.edu/~gustavo/) and affiliated with the [Wireless Networking and Communications Group](https://wncg.org/).
