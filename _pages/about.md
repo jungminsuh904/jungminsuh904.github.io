@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-      <a href="mailto:jmsuh904@utexas.edu">jmsuh904@utexas.edu</a>
+    <a href="mailto:jmsuh904@utexas.edu">jmsuh904@utexas.edu</a>
 
 selected_papers: false
 social: false
