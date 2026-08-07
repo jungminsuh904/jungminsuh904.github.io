@@ -76,7 +76,7 @@ Before joining UT Austin, I received both my B.S. and M.S. degrees in Electrical
 
 ### Research Interests
 
-- AI-Empowered Radio Access Networks
+- AI-native Wireless Communications
 - Network Optimization and Control
 - Resource allocation
 - Statistical Modeling of Networked Systems
