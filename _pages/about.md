@@ -70,7 +70,7 @@ I am a Ph.D. student in the Department of Electrical and Computer Engineering at
 
 My research interests lie at the intersection of wireless communications, network optimization, and statistical modeling, with a particular focus on AI-empowered radio access networks (RANs). My work aims to develop analytical and learning-based methods for resource allocation, performance optimization, and control in wireless networks.
 
-Before joining UT Austin, I received both my B.S. and M.S. degrees in Electrical Engineering from [Korea University](https://www.korea.ac.kr/) in Seoul, South Korea. During my master's studies, I worked on the temporal joint power statistics and outage dynamics of low-Earth-orbit (LEO) satellite communication systems, under the supervision of Prof. [Young-Chai Ko](https://commsys.korea.ac.kr/professor).
+Before joining UT Austin, I received both my B.S. and M.S. degrees in Electrical Engineering from [Korea University](https://www.korea.ac.kr/) in Seoul, South Korea, where I conducted research on the modeling and performance analysis of wireless and satellite communication systems under the supervision of Prof. [Young-Chai Ko](https://commsys.korea.ac.kr/professor).
 
 <div style="margin-top: 2.5rem;"></div>
 
@@ -78,7 +78,7 @@ Before joining UT Austin, I received both my B.S. and M.S. degrees in Electrical
 
 - AI-Empowered Radio Access Networks
 - Network Optimization and Control
-- Wireless Networks
+- Resource allocation
 - Statistical Modeling of Networked Systems
 
 <div style="margin-top: 2.5rem;"></div>
