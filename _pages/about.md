@@ -29,6 +29,39 @@ latest_posts:
   .post-title {
     font-weight: 700 !important;
   }
+
+  article {
+    display: grid;
+    grid-template-columns: 320px minmax(0, 1fr);
+    column-gap: 2rem;
+    align-items: start;
+  }
+
+  article .profile {
+    float: none !important;
+    width: 100% !important;
+    max-width: none !important;
+    margin: 0 !important;
+    grid-column: 1;
+    grid-row: 1;
+  }
+
+  article .clearfix {
+    grid-column: 2;
+    grid-row: 1;
+    min-width: 0;
+  }
+
+  @media (max-width: 768px) {
+    article {
+      display: block;
+    }
+
+    article .profile {
+      width: 100% !important;
+      margin-bottom: 2rem !important;
+    }
+  }
 </style>
 
 ### About me
