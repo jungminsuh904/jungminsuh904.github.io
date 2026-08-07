@@ -1,6 +1,6 @@
 ---
 layout: about
-title: null
+title: about
 permalink: /
 # subtitle: Incoming Ph.D. Student in Electrical and Computer Engineering at The University of Texas at Austin
 
@@ -9,12 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p style="font-size: 1.4rem; font-weight: 600; margin-bottom: 0.25rem;">
-      Jungmin Suh
-    </p>
-    <p style="margin-top: 0;">
       <a href="mailto:jmsuh904@utexas.edu">jmsuh904@utexas.edu</a>
-    </p>
 
 selected_papers: false
 social: false
@@ -29,6 +24,12 @@ latest_posts:
   scrollable: true
   limit: 3
 ---
+
+<style>
+  .post-title {
+    font-weight: 700 !important;
+  }
+</style>
 
 ### About me
 
