@@ -5,7 +5,7 @@ permalink: /
 # subtitle: Incoming Ph.D. Student in Electrical and Computer Engineering at The University of Texas at Austin
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: false
   more_info: >
