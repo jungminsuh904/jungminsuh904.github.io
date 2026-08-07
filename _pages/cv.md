@@ -13,7 +13,7 @@ nav_order: 5
 </div>
 
 <iframe
-  src="{{ '/assets/pdf/CV_JungminSuh.pdf' | relative_url }}"
+  src="{{ '/assets/pdf/Jungmin_Suh_CV.pdf#toolbar=0&navpanes=0&scrollbar=0' | relative_url }}"
   width="100%"
   height="1150px"
   style="border: none"
