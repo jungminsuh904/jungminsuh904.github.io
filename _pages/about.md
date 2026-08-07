@@ -78,7 +78,7 @@ Before joining UT Austin, I received both my B.S. and M.S. degrees in Electrical
 
 - AI-native Wireless Communications
 - Network Optimization and Control
-- Resource allocation
+- Resource allocation Algorithms
 - Statistical Modeling of Networked Systems
 
 <div style="margin-top: 2.5rem;"></div>
