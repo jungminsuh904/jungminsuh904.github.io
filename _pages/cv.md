@@ -14,7 +14,7 @@ nav_order: 5
 
 <iframe
   src="{{ '/assets/pdf/CV_JungminSuh.pdf#toolbar=0&navpanes=0&scrollbar=0' | relative_url }}"
-  width="100%"
+  width="90%"
   height="1150px"
   style="border: none"
   title="Jungmin Suh CV"
